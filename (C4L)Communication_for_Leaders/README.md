@@ -7,4 +7,4 @@ If you do want to preview the courses, contact me with the following email:
 
 <b>skyetang0426@gmail.com</b>
 
-2.The assignments uploaded are my original, for reference only~
+2.The assignments uploaded are my original works, for reference only~
