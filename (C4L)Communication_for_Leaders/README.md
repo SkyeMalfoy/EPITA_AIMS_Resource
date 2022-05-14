@@ -1,10 +1,10 @@
 ## Read this before using the sources please!!!!!
 
-<li>1.Sorry, this course can not provide the slide.</br></li>
-  Professor Bill mentioned that the slide should not be uploaded online because it will infringe his intellectual property rights.
+<li>Sorry, this course can not provide the slide.</br>
+  Professor Bill mentioned that the slide should not be uploaded online because it will infringe his intellectual property rights.</li>
 
-If you do want to preview the courses, contact me with the following email:
+<li>If you do want to preview the courses, contact me with the following email:
 
-<b>skyetang0426@gmail.com</b>
+<b>skyetang0426@gmail.com</b></li>
 
-<li>2.The assignments uploaded are my original works, for reference only~</li>
+<li>The assignments uploaded are my original works, for reference only~</li>
