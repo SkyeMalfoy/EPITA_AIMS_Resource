@@ -4,7 +4,7 @@ It includes slide(majority), works(in-class and off-class), final projects/evalu
 
 <li><b> There are 3 semesters in total. Courses in both campus(EPITA, EM Normandie) are not as same as it like on syllabus.</b></li>
 
-<li>If you have any question about the course or the codes, please contact me at the following email:</li>
+<li><b>If you have any question about the course or the codes, please contact me at the following email:</b></li>
 
 <b>skyetang0426@gmail.com</b>
 
