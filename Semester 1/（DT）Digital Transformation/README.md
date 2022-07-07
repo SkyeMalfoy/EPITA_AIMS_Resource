@@ -1,5 +1,5 @@
 # Please read this before using!!!!
-## This is the course about the basic idea of digital transformation, professor talks from the following four field:
+## This is the course about the basic idea of digital transformation, professor talks from the following four fields:
 
 <oi>Basic digital economy</oi>
 <br/>
