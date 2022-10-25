@@ -7,3 +7,5 @@
 <li>Final group presentation will be difficult, so please be well-prepared before making presentation.</li>
 
 <b>Thank you for visiting, hope you can enjoy this course.</b>
+
+Final_score:16.36
