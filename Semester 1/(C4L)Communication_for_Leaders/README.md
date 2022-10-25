@@ -8,3 +8,5 @@
 <b>skyetang0426@gmail.com</b></li>
 
 <li>The assignments uploaded are my original works, for reference only~</li>
+
+Final_score: 18.79
