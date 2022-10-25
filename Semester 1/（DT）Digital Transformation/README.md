@@ -12,3 +12,5 @@
 ## Final evaluation is a presentation, and topics could be found in the first slide.
 
 <b>The final presentation posted on this site was the one I did, please use it as an example but not copying from it, thank you!</b>
+
+Final_score: 16.48
