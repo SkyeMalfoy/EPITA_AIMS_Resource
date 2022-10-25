@@ -4,5 +4,5 @@
 <li> 1) Discovery of Prolog (a logical programming) </li>
  <li> 2) Final presentation about applying AI technology to a specific platform (or app / function) </li>
 
- 
+ <br/>
  Final_score: 16.00
