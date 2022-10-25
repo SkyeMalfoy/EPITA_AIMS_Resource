@@ -1,6 +1,6 @@
 <h1><b> Don't expect learning too much from this course!!! So you must work hard after class</h1></b>
 
-<b> This evaluation of this course are three parts:
+<b> This evaluation of this course are three parts: </b>
  
   <li> 1) Small project on the second class -- using streamlit to do the data visualization; 30%</li>
   <li> 2) A quiz -- 20 multiple choice questions -- 30% </li>
