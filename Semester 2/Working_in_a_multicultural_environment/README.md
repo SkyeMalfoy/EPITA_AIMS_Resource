@@ -1,1 +1,1 @@
-<b> Note: 19 </b>
+<b> Final score: 19.00 </b>
