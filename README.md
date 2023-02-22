@@ -8,7 +8,7 @@ It includes slide(majority), works(in-class and off-class), final projects/evalu
 
 <b>skyetang0426@gmail.com</b>
 
-<li> <b> There must have some mistakes or errors in codes, if you can improve them and send me with the better ones, I'd really appreciate it!</b> </li>
+<li> <b> There must have some mistakes or errors in codes, if you can improve them and send me with the improved ones, I'd really appreciate it!</b> </li>
 
 <b>Hope you can spend your stady at EPITA smoothly.</b>
 
