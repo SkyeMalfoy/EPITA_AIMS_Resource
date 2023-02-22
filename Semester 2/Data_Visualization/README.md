@@ -12,4 +12,4 @@
   If you find some errors or if you have any question about the code, please contact: skyetang0426@gmail.com.
   <br/>
   
-  Final_score: 16.00
+  Final score: 16.00
