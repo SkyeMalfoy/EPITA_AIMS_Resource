@@ -3,6 +3,6 @@
 
 This course has two parts for evaluation:
 <li>The graded quiz for 50%; </li>
-<li>The graded final project for 50%.</li>
+<li>The graded final project for 50%.</li> <br/>
 
 **Final Score: 16.5**
