@@ -7,5 +7,6 @@ The final project is to write four kinds of recommender system towards the Amazo
 <li>Content-based model</li>
 <li>Collaborative filtering</li>
 <li>Model-based collaborative filtering</li>
-      
+
+<br/>
 **Final Score: 17.7**
