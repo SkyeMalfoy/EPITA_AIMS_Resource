@@ -5,3 +5,5 @@ In this course, the evaluation is splitted into two parts:
 <li>Final presentation of a real-world case study. (ATTENTION: the time is highly restricted)</li><br/>
 
 **Final Score: 14.8**
+
+FYI: my wordpress website: https://skyedon0.wordpress.com/
