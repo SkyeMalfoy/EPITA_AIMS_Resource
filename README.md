@@ -1,4 +1,6 @@
 # EPITA_AIMS_Resource
+Hello, mate!~ Welcome to my sharing! 😄🎉🎉
+
 This is the database for materials during my study(2022.03-2023.08) at EPITA in major: Artificial Intelligence for Marketing Strategy.
 This folder shares all the (the majority of) slides, works(in-class and off-class), final projects/evaluations and also courses arrangement for the each semester etc.. Please use these works just as references, don't copy it directly because it is bad for your study and also they are my personal **intellectual property**.
 
