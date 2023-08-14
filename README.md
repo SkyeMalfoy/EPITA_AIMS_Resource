@@ -8,7 +8,7 @@ This folder shares all the (the majority of) slides, works(in-class and off-clas
 
 <li><b>If you have any question about the course, the materials or the codes, please contact me at the following email:</b></li>
 
-<b>skyetang0426@gmail.com</b>
+📧<b>skyetang0426@gmail.com</b>
 
 <li> <b> There must have some mistakes, improvements or errors in codes, if you can improve them and send me with the improved ones, I'd really appreciate it! 💗</b> </li> <br/>
 
