@@ -1,3 +1,4 @@
+# Gamification Augmented reality and Virtual reality Workshop using AI
 **This course was only for learning some basics and principles in terms of gamification, AR and VR. Nearly nothing technical.** <br/>
 
 The evaluation is divided into two parts:
