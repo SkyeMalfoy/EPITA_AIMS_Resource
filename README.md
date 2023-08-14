@@ -14,4 +14,4 @@ This includes (the majority of) slides, works(in-class and off-class), final pro
 
 ### All materials are updating gradually...
 
-The most recently change is on <b>Aug.6 2023</b>
+The most recently change is on <b>Aug.14 2023</b>
