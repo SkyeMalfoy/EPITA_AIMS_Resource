@@ -14,6 +14,6 @@ This folder shares all the (the majority of) slides, works(in-class and off-clas
 
 <b>Hope you can spend your study at EPITA smoothly.</b>
 
-### All materials are updating gradually...
+### ⏳All materials are updating gradually...
 
-The most recently change is on <b>Aug.14 2023</b>
+⏰The most recently change is on <b>Aug.14 2023</b>
