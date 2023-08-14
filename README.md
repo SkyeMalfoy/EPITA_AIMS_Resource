@@ -1,4 +1,4 @@
-# 📖EPITA_AIMS_Resource📖
+# 📖EPITA AIMS Resources📖
 Hello, mate!~ Welcome to my sharing! 😄🎉🎉
 
 This is the database for materials during my study(2022.03-2023.08) at EPITA in major: Artificial Intelligence for Marketing Strategy.
