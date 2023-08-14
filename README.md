@@ -8,7 +8,7 @@ This folder shares all the (the majority of) slides, works(in-class and off-clas
 
 <b>skyetang0426@gmail.com</b>
 
-<li> <b> There must have some mistakes, improvements or errors in codes, if you can improve them and send me with the improved ones, I'd really appreciate it!</b> </li>
+<li> <b> There must have some mistakes, improvements or errors in codes, if you can improve them and send me with the improved ones, I'd really appreciate it!</b> </li> <br/>
 
 <b>Hope you can spend your study at EPITA smoothly.</b>
 
