@@ -1,1 +1,1 @@
-<b> Final score: 19.00 </b>
+<b> Final score: 17.60 </b>
