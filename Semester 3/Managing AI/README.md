@@ -7,4 +7,4 @@ The evaluation is divided into three parts:
 <li>A group presentation about applying AI in to a specific industry guided by EU's Trustworthy AI principles</li>
 <li>A final report about analysing AI implementation in Marketing by reading and studying the research paper talking about the 3-stage framework for strategic makreting planning.</li> <br/>
 
-**Final score: To be updated...**
+**Final score: 15.5**
