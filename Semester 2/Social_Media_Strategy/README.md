@@ -1,3 +1,5 @@
+# Social Media Strategy
+
 **It is a course with a really fast pace: please pay attention to the professor all along.** <br/>
 
 In this course, the evaluation is splitted into two parts:
