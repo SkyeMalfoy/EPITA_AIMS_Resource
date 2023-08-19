@@ -3,7 +3,7 @@
 The whole class was based on the topic of: current and future usage of ChatGPT. We have to do research and analyse the qualitative and quantitative data and wrote analysis reports respectively.
 
 **Materials in this course**
-<li>Slides: https://drive.google.com/drive/folders/1q27-Z9k3GKhzL_wttK2JUkJyaydEESJ4?usp=drive_link </li>
+<li>Slides: https://drive.google.com/drive/folders/1q27-Z9k3GKhzL_wttK2JUkJyaydEESJ4?usp=drive_link </li> <br/>
 
 It is a long course, we have so many things to do, please check out the message the professor sent us.
 
@@ -16,7 +16,7 @@ It is a long course, we have so many things to do, please check out the message 
 - make sample characterization (how many men, women, etc.)
 - use smart PLS for data analysis
 - write down the results
-- write the final quantitative report.
+- write the final quantitative report. <br/>
 
 **At the end you have 3 documents to share with me:**
 1) focus group report
