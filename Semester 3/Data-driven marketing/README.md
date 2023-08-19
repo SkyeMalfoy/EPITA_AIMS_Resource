@@ -22,3 +22,6 @@ It is a long course, we have so many things to do, please check out the message 
 1) focus group report
 2) quantitative data report
 3) excel with your quantitative data
+<br/>
+
+**Final Score: To be updated...**
