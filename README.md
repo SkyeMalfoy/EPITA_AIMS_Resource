@@ -1,7 +1,7 @@
 # 📖EPITA AIMS Resources📖
 Hello, mate!~ Welcome to my sharing! 😄🎉🎉
 
-This is the database for materials during my study(2022.03-2023.08) at EPITA in major: Artificial Intelligence for Marketing Strategy.
+This is the database for all materials during my study(2022.03-2023.08) at EPITA in major: Artificial Intelligence for Marketing Strategy.
 This folder shares all the (the majority of) slides, works(in-class and off-class), final projects/evaluations and also courses arrangement for the each semester etc.. Please use these works just as references, don't copy it directly because it is bad for your study and also they are my personal **intellectual property**.
 
 <li><b> There are 3 semesters in total(for 2022 AIMS spring intake there are four semesters).</b></li>
